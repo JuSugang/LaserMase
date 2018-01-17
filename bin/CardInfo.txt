@@ -1,0 +1,204 @@
+1
+1
+3
+R 1 1 S N N
+p 3 3 A N N
+S 0 0 W Y Y
+2
+1
+4
+p 4 0 S N N
+P 0 3 A N N	
+R 0 4 A Y N
+P 0 0 W Y Y
+3
+1
+5
+P 0 3 W Y N
+P 4 3 W N N
+P 0 4 W Y N
+p 1 4 W Y N
+R 0 0 W Y Y
+4
+1
+5
+R 1 0 S N N
+Y 0 1 S N N
+P 0 4 W Y N
+P 0 0 W Y Y
+p 1 0 W Y Y
+5
+2
+5
+p 1 0 W Y N
+p 4 3 W Y N
+B 1 4 W N N
+R 0 0 W Y Y
+G 1 0 W Y Y
+6
+2
+7
+R 1 3 S N N
+p 3 2 W Y N
+p 2 4 W N N
+P 0 0 W Y Y
+P 1 0 W Y Y
+P 2 0 W Y Y
+G 3 0 W Y Y
+7
+2
+5
+R 0 0 W Y N
+p 4 0 W Y N
+S 3 1 W N N
+p 0 0 W Y Y
+G 1 0 W Y Y
+8
+1
+7
+Y 2 1 W Y N
+P 1 3 W Y N
+P 1 4 W Y N
+p 2 4 W Y N
+P 3 4 W Y N
+P 3 3 W Y N
+R 0 0 W Y Y
+9
+2
+6
+p 3 0 W Y N
+R 1 1 W Y N
+p 3 3 D N N
+P 0 0 W Y Y
+P 1 0 W Y Y
+G 2 0 W Y Y
+10
+3
+8
+p 0 1 D N N
+p 3 0 W Y N
+B 4 1 W N N
+Y 1 2 W Y N
+p 4 2 W Y N
+R 0 0 W Y Y
+G 1 0 W Y Y
+G 2 0 W Y Y
+11
+1
+8
+P 0 0 W Y N
+P 3 0 W Y N
+Y 0 2 W N N
+B 0 4 W N N
+p 3 4 W Y N
+R 4 3 W Y N
+P 0 0 W Y Y
+S 1 0 W Y Y
+12
+2
+9
+p 2 0 W Y N
+P 4 0 W Y N
+R 1 2 W Y N
+p 3 2 W N N
+Y 4 3 W N N
+S 0 4 W N N
+P 0 0 W Y Y
+P 1 0 W Y Y
+G 2 0 W Y Y
+13
+2
+7
+S 2 1 W Y N
+p 4 1 W Y N
+R 0 3 W Y N
+B 2 3 W N N
+p 3 4 W Y N
+P 0 0 W Y Y
+G 1 0 W Y Y
+14
+1
+8
+R 2 0 S N N
+p 3 1 A N N
+Y 3 2 W Y N
+S 0 3 W N N
+P 0 0 W Y Y
+P 1 0 W Y Y
+P 2 0 W Y Y
+P 3 0 W Y Y
+15
+2
+9
+P 2 0 W Y N
+p 0 1 W Y N
+Y 1 1 W Y N
+R 3 1 W Y N
+p 1 2 W Y N
+G 2 2 W Y N
+P 0 3 W Y N
+P 2 3 W Y N
+S 0 0 W Y Y
+16
+3
+10
+p 1 0 W Y N
+p 2 0 W Y N
+B 1 1 W N N
+p 3 2 W Y N
+P 1 3 W Y N
+P 2 3 W N N
+R 0 0 W Y Y
+G 1 0 W Y Y
+G 2 0 W Y Y
+Y 3 0 W Y Y
+17
+3
+10
+p 4 0 W Y N
+Y 1 2 D N N
+p 0 3 W Y N
+B 1 3 W N N
+G 2 3 W Y N
+P 2 4 W Y N
+p 4 4 W Y N
+R 0 0 W Y Y
+S 1 0 W Y Y
+G 2 0 W Y Y
+18
+3
+10
+R 4 0 S N N
+B 0 1 W N N
+p 1 1 S N N
+S 1 2 A N N
+p 1 3 W N N
+P 0 0 W Y Y
+P 1 0 W Y Y
+p 2 0 W Y Y
+G 3 0 W Y Y
+G 4 0 W Y Y
+19
+3
+8
+G 1 1 W Y N
+p 4 1 W Y N
+R 4 2 A N N
+G 2 3 W Y N
+P 0 0 W Y Y
+P 1 0 W Y Y
+p 2 0 W Y Y
+p 3 0 W Y Y
+20
+3
+10
+p 0 0 W Y N
+Y 3 2 D N N
+G 1 3 W N N
+p 2 3 W Y N
+B 3 4 W N N
+p 4 4 W Y N
+R 0 0 W Y Y
+P 1 0 W Y Y
+P 2 0 W Y Y
+G 3 0 W Y Y
